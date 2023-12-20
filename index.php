@@ -51,14 +51,14 @@
 				<div class="col-md-6 home-left-section">
 					<div style="padding: 100px 0px; color: white;">
 						<h1>
-							VINCENT PIZZAAAA.
+							VINCENT PIZZA.
 						</h1>
 						<h2>
 							MAKING PEOPLE HAPPY
 						</h2>
 						<hr>
 						<p>
-							Italian Pizzaaa With chr Tomatoes and Green Basil  
+							Italian Pizzaaa With cherry Tomatoes and Green Basil  
 						</p>
 						<div style="display: flex;">
 							<a href="order_food.php" target="_blank" class="bttn_style_1" style="margin-right: 10px; display: flex;justify-content: center;align-items: center;">
