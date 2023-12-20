@@ -51,7 +51,7 @@
 				<div class="col-md-6 home-left-section">
 					<div style="padding: 100px 0px; color: white;">
 						<h1>
-							VINCENT PIZZA.
+							VINCENT PIZZAAAA.
 						</h1>
 						<h2>
 							MAKING PEOPLE HAPPY
