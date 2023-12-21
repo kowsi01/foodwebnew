@@ -54,7 +54,7 @@
 							VINCENT PIZZA.
 						</h1>
 						<h2>
-							MAKING PEOPLE HAPPYYYYYY
+							MAKING PEOPLE HAPPYYYYYY FACE
 						</h2>
 						<hr>
 						<p>
