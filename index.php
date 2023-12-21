@@ -58,7 +58,7 @@
 						</h2>
 						<hr>
 						<p>
-							Italian Pizzaaa With cherry Tomatoes and Green Basil with double cheese 
+							Italian Pizza With Tomatoes and Green Basil with double cheese 
 						</p>
 						<div style="display: flex;">
 							<a href="order_food.php" target="_blank" class="bttn_style_1" style="margin-right: 10px; display: flex;justify-content: center;align-items: center;">
